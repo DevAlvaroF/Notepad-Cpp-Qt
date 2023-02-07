@@ -1,4 +1,4 @@
-# Notepad-Cpp-Qt
+# Notepad Cpp Qt5
 Notepad application usig Qt5 as the backbone to C++.
   Developed on: Qt Creator with CMake
 
